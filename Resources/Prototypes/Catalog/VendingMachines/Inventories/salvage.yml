@@ -10,5 +10,13 @@
     RadioHandheld: 2
     WeaponGrapplingGun: 4
     WeaponProtoKineticAccelerator: 4
+    SeismicCharge: 3 #Clover
+    SpaceMedipen: 2 #Clover
+    EmergencyMedipen: 2 #Clover
+    MedkitFilled: 1 #Clover
+    BoxMRE: 1 #Clover
   contrabandInventory:
     PlushieCarp: 1
+    MiningDrill: 1 #Clover
+    DrinkBeerCan: 2 #Clover
+    Coal1: 1 #Clover

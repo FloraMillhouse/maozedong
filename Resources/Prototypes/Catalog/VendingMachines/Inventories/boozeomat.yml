@@ -1,53 +1,53 @@
 - type: vendingMachineInventory
   id: BoozeOMatInventory
   startingInventory:
-    DrinkGlass: 20 #Kept glasses at top for ease to differentiate from booze.
-    DrinkShotGlass: 10
-    DrinkGlassCoupeShaped: 10
-    DrinkVacuumFlask: 5
-    DrinkFlaskBar: 5
+    DrinkGlass: 30 #Clover
+    DrinkShotGlass: 20 #Clover
+    DrinkGlassCoupeShaped: 20 #Clover
+    DrinkVacuumFlask: 10 #Clover
+    DrinkFlaskBar: 10 #Clover
     DrinkShaker: 5
     DrinkJigger: 5
-    DrinkIceBucket: 2
+    DrinkIceBucket: 3 #Clover
     BarSpoon: 3
-    CustomDrinkJug: 2 #to allow for custom drinks in the soda/booze dispensers
-    DrinkAbsintheBottleFull: 2
-    DrinkAleBottleFull: 5
-    DrinkBeerBottleFull: 5
-    DrinkBlueCuracaoBottleFull: 2
-    DrinkCognacBottleFull: 4
-    DrinkCoconutWaterCarton: 3
-    DrinkColaBottleFull: 4
-    DrinkEnergyDrinkCan: 8
-    DrinkMilkCarton: 2
-    DrinkCreamCarton: 5
-    DrinkGinBottleFull: 3
+    CustomDrinkJug: 5 #Clover
+    DrinkAbsintheBottleFull: 3 #Clover
+    DrinkAleBottleFull: 6 #Clover
+    DrinkBeerBottleFull: 6 #Clover
+    DrinkBlueCuracaoBottleFull: 3 #Clover
+    DrinkCognacBottleFull: 5 #Clover
+    DrinkCoconutWaterCarton: 5 #Clover
+    DrinkColaBottleFull: 5 #Clover
+    DrinkEnergyDrinkCan: 15 #Clover
+    DrinkMilkCarton: 3 #Clover
+    DrinkCreamCarton: 6 #Clover
+    DrinkGinBottleFull: 5 #Clover
     DrinkGildlagerBottleFull: 2 #if champagne gets less because its premium, then gildlager should match this and have two
     DrinkGrenadineBottleFull: 2
-    DrinkJuiceLimeCarton: 3
-    DrinkJuiceLemonCarton: 3
-    DrinkJuicePineappleCarton: 3
-    DrinkJuiceOrangeCarton: 3
-    DrinkJuiceTomatoCarton: 3
-    DrinkCoffeeLiqueurBottleFull: 3
-    DrinkMelonLiquorBottleFull: 3
-    DrinkPatronBottleFull: 2
-    DrinkRumBottleFull: 4
-    DrinkSodaWaterCan: 8
-    DrinkSolDryCan: 8
-    DrinkSpaceMountainWindBottleFull: 3
-    DrinkSpaceUpBottleFull: 3
-    DrinkTequilaBottleFull: 3
-    DrinkTonicWaterCan: 8
-    DrinkVermouthBottleFull: 5
-    DrinkVodkaBottleFull: 5
-    DrinkWhiskeyBottleFull: 5
-    DrinkWineBottleFull: 5
+    DrinkJuiceLimeCarton: 5 #Clover
+    DrinkJuiceLemonCarton: 5 #Clover
+    DrinkJuicePineappleCarton: 4 #Clover
+    DrinkJuiceOrangeCarton: 5 #Clover
+    DrinkJuiceTomatoCarton: 2 #Clover
+    DrinkCoffeeLiqueurBottleFull: 5 #Clover
+    DrinkMelonLiquorBottleFull: 5 #Clover
+    DrinkPatronBottleFull: 3 #Clover
+    DrinkRumBottleFull: 5 #Clover
+    DrinkSodaWaterCan: 10 #Clover
+    DrinkSolDryCan: 10 #Clover
+    DrinkSpaceMountainWindBottleFull: 4 #Clover
+    DrinkSpaceUpBottleFull: 5 #Clover
+    DrinkTequilaBottleFull: 6 #Clover
+    DrinkTonicWaterCan: 10 #Clover
+    DrinkVermouthBottleFull: 6 #Clover
+    DrinkVodkaBottleFull: 8 #Clover
+    DrinkWhiskeyBottleFull: 6 #Clover
+    DrinkWineBottleFull: 4 #Clover
     DrinkChampagneBottleFull: 2 #because the premium drink
-    DrinkSakeBottleFull: 3
-    DrinkBeerCan: 5
-    DrinkWineCan: 5
+    DrinkSakeBottleFull: 4 #Clover
+    DrinkBeerCan: 15 #Clover
+    DrinkWineCan: 8 #Clover
   contrabandInventory:
     ChemistryBottleEthanol: 3
     DrinkBottleOfNothingFull: 1
-    DrinkPoisonWinebottleFull: 2
+    DrinkPoisonWinebottleFull: 1 #Clover

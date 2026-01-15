@@ -1,7 +1,7 @@
 - type: vendingMachineInventory
   id: VendomatInventory
   startingInventory:
-    RemoteSignaller: 1
+    RemoteSignaller: 2 #Clover
     Igniter: 2
     Wirecutter: 2
     Screwdriver: 2
@@ -9,6 +9,13 @@
     FlashlightLantern: 2
     PowerCellSmallPrinted: 3
     MicroManipulatorStockPart: 12
+    DoorElectronics: 6 #Clover
+    APCElectronics: 4 #Clover
+    AirAlarmElectronics: 2 #Clover
+    MailingUnitElectronics: 2 #Clover
+    SheetSteel10: 1 #Clover
+    SheetGlass10: 1 #Clover
+    SheetPlastic10: 1 #Clover
   contrabandInventory:
     ProximitySensor: 1
     LeftArmBorg: 1
